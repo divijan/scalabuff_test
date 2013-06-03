@@ -1,1 +1,1 @@
-//addSbtPlugin("com.github.sbt" %% "sbt-scalabuff" % "0.2")
+addSbtPlugin("com.github.sbt" %% "sbt-scalabuff" % "0.2")
